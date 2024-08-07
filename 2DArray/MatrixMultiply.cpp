@@ -7,8 +7,6 @@ int main() {
 
     int m1[n1][n2];
     int m2[n2][n3];
-
-    
     for (int i = 0; i < n1; i++) {
         for (int j = 0; j < n2; j++) {
             cin >> m1[i][j];
