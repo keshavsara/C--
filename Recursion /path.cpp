@@ -17,7 +17,8 @@ int countPath(int s, int e) {
     return count;
 }
 
-int main() {
-    cout << countPath(0, 3) << endl; // Output should be 4
+int main() 
+{
+    cout << countPath(0, 3) << endl; 
     return 0;
 }
