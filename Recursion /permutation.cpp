@@ -21,6 +21,6 @@ void permutation(string s, string ans)
 
 int main()
 {
-    permutation("ABC", "");
+    permutation("ABC"," ");
     return 0;
 }
